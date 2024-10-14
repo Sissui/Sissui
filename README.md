@@ -1,5 +1,11 @@
 ## Hi there 👋
+# About me:
+# 🐧 Linux enjoyer
+# I use ARCH BTW
 
+# 🔭 I’m currently working on:
+#  - my ultimate Dotfiles
+#  - daily automation console app
 <!--
 **Sissui/Sissui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
